@@ -23,4 +23,6 @@ Run with:
     
 # Playing with code
 
-Install Anaconda, jupyter
+    install Anaconda, Jupyter
+    place provided 'example_data' into the folder
+    run the notebook 'adorable-test-task.ipynb'
